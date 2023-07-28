@@ -2,10 +2,11 @@
 	 display: flex;
   height: 200px;
 	background-color:cyan;
- align-content: center;
+
+	align-items:center;
+	 
 	
-	 justify-content: center;
-	align-item:center;
-	
+	  width: 100px;
+  height: 100px;
 }
 /* Your CSS Code here. */
