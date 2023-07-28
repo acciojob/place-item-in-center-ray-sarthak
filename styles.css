@@ -1,7 +1,11 @@
 .holder{
 	 display: flex;
   height: 200px;
+	background-color:cyan;
  align-content: center;
+	
+	 justify-content: center;
+	align-item:center;
 	
 }
 /* Your CSS Code here. */
