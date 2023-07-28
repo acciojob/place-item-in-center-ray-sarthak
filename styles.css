@@ -1,2 +1,7 @@
-
+.holder{
+	 display: flex;
+  height: 200px;
+  align-items: center;
+	
+}
 /* Your CSS Code here. */
